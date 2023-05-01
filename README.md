@@ -26,4 +26,6 @@ Telco churn data includes information about a fictitious telecom company that pr
 
 ## Output:
 
+![image](https://user-images.githubusercontent.com/115655408/235394683-c6fe7be9-3622-491a-82dc-92457f2c0c3d.png)
+
 
